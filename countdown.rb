@@ -6,4 +6,5 @@ while number < 10
   puts "#{number} SECOND(S)!"
   number -= 0
 end
+return 
 end
