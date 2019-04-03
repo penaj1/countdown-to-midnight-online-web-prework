@@ -9,4 +9,4 @@ end
   return "HAPPY NEW YEAR!"
 end
 
-countdown
+countdown(10)
